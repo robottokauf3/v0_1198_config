@@ -17,12 +17,14 @@ Config for my Voron V0.1 aka Vincent van Flow.
 - Sherpa Mini extruder
 - Quick release panel clips
 - Neopixel stage lighting
+- 4.3" Waveshare touchscreen
 
 ## Todo
 
-- [ ] Organize config files
-- [ ] Reinstall OS
-- [ ] Update klipper, moonraker, mainsail, etc
+- [X] Organize config files
+- [X] Reinstall OS
+- [X] Update klipper, moonraker, mainsail, etc
+- [X] Klipper Screen with touchscreen
 - [ ] Setup KAMP dynamic purge line
 - [ ] Sensorless X & Y
 - [ ] Dragon Burner toolhead?
